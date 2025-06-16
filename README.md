@@ -1,9 +1,14 @@
 # Internship Based Projects
 
-[click here for HR-Dashboard file](https://github.com/Rithushree10/HR-Dashboard)
-## Project 2: Production Efficiency Analysis – Manufacturing Labels
-### Overview
-This project involves examining production data from a manufacturing label to identify inefficiencies and provide recommendations aimed at improving key production metrics and overall operational efficiency.
-### Tools:
-Excel,MySQL,Power BI, Tableau
+## 🏢 Internship Overview
+- **Organization**: AI Variant 
+- **Role**: Data Analyst Intern (project-based)
+- **Mode**: Group project with individual responsibilities
+- **Duration**: [January 2025 – May 2025]
+- **Tools Used**: Excel, MySQL, Power BI, Tableau
+  
+###The links to both project files are given below.
 
+[Project 1:HR-Dashboard-Employee Retention Analysis](https://github.com/Rithushree10/HR-Dashboard)
+
+[Project 2:Manufacturing_Production_Efficiency](https://github.com/Rithushree10/Manufacturing_Production_Efficiency)
